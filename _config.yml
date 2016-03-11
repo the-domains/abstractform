@@ -1,7 +1,7 @@
 name: AbstractForm
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.4533540103584528
+typography_spectrum: 0.48491
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#232321'
     - '#484846'
   brandStrength: 0.0625
-  lightness: 0.8481767422053963
-  saturation: 0.6060210955329239
-  rhythmicContrast: 0.7390751934144646
+  lightness: 0
+  saturation: 0.0625
+  rhythmicContrast: 1
 purpose: []
